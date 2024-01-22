@@ -1,0 +1,8 @@
+.manrope{
+    font-family: 'Manrope', sans-serif;
+}
+.dotted-line {
+    border: none;
+    border-top: 2px dotted #13131821; /* 1px height and dotted style, adjust color as needed */
+    margin: 10px 0; /* Optional: add margin for spacing */
+  }
